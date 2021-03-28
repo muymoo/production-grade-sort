@@ -27,7 +27,7 @@ cd production-grade-sort
    2. Platform: Python
    3. Upload your code - use zip from step #1
 
-To run locally:
+(Optional) To run locally:
 ```bash
 python3 -m venv env
 source env/bin/activate
