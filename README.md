@@ -38,7 +38,7 @@ python3 application.py
 ### AWS Lambda
 1. Create Lambda
    1. From Scratch
-   2. Python 3.6
+   2. Python 3.8
 2. Copy handler code in from `lambda/handler.py` - rename `sort()` to `lambda_handler()`
 3. Test with event:
 ``` 
