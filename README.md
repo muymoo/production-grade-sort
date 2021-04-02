@@ -26,6 +26,7 @@ cd production-grade-sort
    1. Environment Tier: Web Server Environment
    2. Platform: Python
    3. Upload your code - use zip from step #1
+4. Once application is deployed, test with `<your application url>/?numbers=5,4,3,2,1`
 
 (Optional) To run locally:
 ```bash
